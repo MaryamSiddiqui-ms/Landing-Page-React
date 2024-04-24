@@ -8,9 +8,9 @@ import {
 } from 'react-router-dom'
 
 import './style.css'
-import Pricing from './views/pricing'
-import Home from './views/home'
-import NotFound from './views/not-found'
+import Pricing from '../views/pricing'
+import Home from '../views/home'
+import NotFound from '../views/not-found'
 
 const App = () => {
   return (
